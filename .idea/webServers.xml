@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a03ff218-8f27-4b42-a3c2-b5a71b3eccfd" name="10.142.114.21" url="http://10.142.114.129">
+        <fileTransfer host="10.142.114.129" port="22" rootFolder="/root/gocode/src/k8s.io" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
